@@ -38,10 +38,10 @@ https://www.figma.com/your-project-link
 ## 📷 Screenshots
 
 ### Prototype View
-![Prototype]()
+![Prototype](<img width="1896" height="887" alt="image" src="https://github.com/user-attachments/assets/68ad90fc-25a9-4f90-b562-1273c8b37045" />)
 
 ### Design View
-![Design](design.png)
+![Design]()
 ## 🎯 Purpose of the Project
 
 The purpose of this project is to practice **UI/UX design principles**, create visually appealing user interfaces, and learn **prototyping using Figma**.
