@@ -34,10 +34,10 @@ https://www.figma.com/design/wCSfrcuYXFOAJMtAfM2Vo0/Untitled?node-id=0-1&t=VCLcd
 ## 📷 Screenshots
 
 ### Design View
-![Prototype](<img width="1896" height="887" alt="image" src="https://github.com/user-attachments/assets/68ad90fc-25a9-4f90-b562-1273c8b37045" />)
+![Prototype](Screenshot 2026-01-19 223917-HP.png)
 
 ### Prototype View
-![Design](<img width="1892" height="887" alt="image" src="https://github.com/user-attachments/assets/bc09d378-6904-4075-a7fd-c4b5c9b5f5b7" />)
+![Design]()
 ## 🎯 Purpose of the Project
 
 The purpose of this project is to practice **UI/UX design principles**, create visually appealing user interfaces, and learn **prototyping using Figma**.
